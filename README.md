@@ -1,2 +1,10 @@
 # linux-study
-:tiger: Linux常用命令学习、练习
+:monkey: Linux常用命令学习、练习
+## 常用命令 ##
+curl  
+sudo  
+su  
+&  
+&&  
+|  
+||  
