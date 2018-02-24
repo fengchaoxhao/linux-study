@@ -3,10 +3,9 @@
 
 >nohup代表后台运行，nohup相当于是把你的程序托管给nohup，但是如果你不后台运行的话，你的nohup会占掉terninmal运行，那么你terminal一关，你程序还是跪了。但是你如果后台运行nohup，那么你的nohup就不会占着terminal，这样就可以后台运行了
 
-作者：咕咕
+以上引文作者：咕咕
 链接：https://www.zhihu.com/question/40910876/answer/88775525
 来源：知乎
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 **实例：**  
 `nohup java -jar gs-spring-boot-0.1.0.jar &`  
