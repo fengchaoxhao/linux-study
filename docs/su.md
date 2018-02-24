@@ -6,16 +6,16 @@ su (选项) (参数)
 
 **选项(可选)：**  
 - -c <command> 执行完指定指令后，立即切换回原来的身份。
-- -l 改变身份时，也同时改变工作目录，以及HOME，SHELL，USER，PATH变量。  
+- -l 改变身份时，也同时改变工作目录，以及HOME，SHELL环境，USER，PATH变量。  
 - -单独一个横杠不带任何字符的作用等同于(-l)选项。
 
 **参数：**  
 指定要切换身份的目标用户。
 
 **实例：**  
-`su -c ls root`
-`su -l root`
-`su fengchao`
-`su -`
-`su - root`
-`su - fengchao`
+`su -c ls root`  
+`su -l root`  
+`su fengchao`  
+`su -`  
+`su - root`  
+`su - fengchao`  
